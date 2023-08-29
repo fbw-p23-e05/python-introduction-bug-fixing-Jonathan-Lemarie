@@ -6,5 +6,5 @@ print("Before swapping: a =", a, " ,b =", b)
 
 temp = a
 a = b
-b = temp
-print("After swapping: a =", a, " ,b =", b)
+b = temp   # added this line
+print("After swapping: a =", a, " ,b =", b)  # correct the syntax so so a and b are not just string text but arguments.
